@@ -12,7 +12,7 @@ public class Launcher {
 
     public static void main(String[] args) {
 
-        String host = "HOSTNAME";
+        String host = "CRESCO WS_API HOSTNAME";
         int port = 8282; //port of WS_API service
         String service_key = "SERVICE_KEY";
 
